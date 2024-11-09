@@ -1,0 +1,10 @@
+pandas
+tensorflow
+torch
+scikit-learn
+xgboost
+lightgbm
+seaborn
+matplotlib
+kagglehub
+numpy
