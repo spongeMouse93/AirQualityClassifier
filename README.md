@@ -18,6 +18,7 @@ import kagglehub
 path = kagglehub.dataset_download("rabieelkharoua/air-quality-and-health-impact-dataset")
 
 print("Path to dataset files:", path)
+```
 
 The output will be the file path where the .csv file will be located.
 
