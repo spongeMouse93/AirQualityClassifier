@@ -9,3 +9,4 @@ matplotlib
 kagglehub
 numpy
 jupyter
+catboost
