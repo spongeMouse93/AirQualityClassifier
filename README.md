@@ -25,6 +25,6 @@ The output will be the file path where the .csv file will be located.
 2. You can directly download the zip file from [Kaggle itself](https://www.kaggle.com/datasets/rabieelkharoua/air-quality-and-health-impact-dataset/data) using this hyperlink.
 
 ## Results?
-![alt text]([https://github.com/spongeMouse93/AirQualityClassifier/blob/main/visualization.png] "Accuracy Per Algorithm")
+![alt text](https://github.com/spongeMouse93/AirQualityClassifier/blob/main/visualization.png "Accuracy Per Algorithm")
 
 By the looks of it, the most accurate algorithm is the SVC with the radial basis function kernel.
