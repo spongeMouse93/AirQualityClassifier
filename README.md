@@ -27,4 +27,4 @@ The output will be the file path where the .csv file will be located.
 ## Results?
 ![alt text](https://github.com/spongeMouse93/AirQualityClassifier/blob/main/visualization.png "Accuracy Per Algorithm")
 
-By the looks of it, the most accurate algorithm is the SVC with the radial basis function kernel.
+By the looks of it, the most accurate algorithm is the SVC with the polynomial kernel, which I have set with degree 3 and leading coefficient 2.
